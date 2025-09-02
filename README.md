@@ -1,1 +1,2 @@
-# Database-Management-Lab
+# Database-Management-Lab project name (Zero_To_One)...
+Which I did in the 5th semester
